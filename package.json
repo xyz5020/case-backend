@@ -1,0 +1,26 @@
+{
+  "name": "case-backend",
+  "version": "1.0.0",
+  "description": "case backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xyz5020/case-backend.git"
+  },
+  "keywords": [
+    "nodejs",
+    "express"
+  ],
+  "author": "xuying",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xyz5020/case-backend/issues"
+  },
+  "homepage": "https://github.com/xyz5020/case-backend#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
