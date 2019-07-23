@@ -13,6 +13,11 @@ app.locals.entries = entries
 
 app.use(express.json())
 app.use((req, res, next) => {
+  res.header('Access-Control-Allow-Origin', '*')
+  next()
+})
+
+app.use((req, res, next) => {
   console.log("In comes a " + req.method + " to " + req.url)
   next()
 })
