@@ -28,7 +28,8 @@ router.get('/paper', async (req, res) => {
 })
 
 router.get('/meeting', async (req, res) => {
-  let result = await meetingModel.find(req.query).exec()
+  const search = new RegExp(req.query.meeting_name, 'i')
+  let result = await meetingModel.find(search).exec()
   res.send(result)
 })
 
