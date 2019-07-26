@@ -4,7 +4,7 @@ const app = express()
 
 const indexRouter = require('./router/index')
 
-mongoose.connect('mongodb://localhost/case', {useNewUrlParser: true});
+mongoose.connect('mongodb://mongo:27017/casedb', {useNewUrlParser: true});
 const db = mongoose.connection
 db.on('error', console.error.bind(console, 'connection error:'))
 

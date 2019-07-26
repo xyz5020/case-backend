@@ -1,4 +1,4 @@
-FROM node:slim
+FROM node:10
 WORKDIR /case-backend
 ADD ./ /case-backend
 RUN npm install
