@@ -6,6 +6,7 @@
 const express = require('express')
 const mongoose = require('mongoose')
 const router = express.Router()
+const path = require('path')
 
 const paperSchema = new mongoose.Schema({
   article_id: String,
@@ -29,8 +30,12 @@ router.get('/paper', async (req, res) => {
 
 router.get('/meeting', async (req, res) => {
   const search = new RegExp(req.query.meeting_name, 'i')
-  let result = await meetingModel.find(search).exec()
+  let result = await meetingModel.find({meeting_name: search}).exec()
   res.send(result)
+})
+
+router.get('/file/:path', (req, res) => {
+  res.download(path.resolve(__dirname, '../files', req.params.path))
 })
 
 module.exports = router

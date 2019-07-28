@@ -1,0 +1,47 @@
+[
+  {
+    "meeting_id": "1",
+    "meeting_name": "Simulation Optimization in New Information Age",
+    "meeting_start_time": "2019-09-08 12:00:00",
+    "meeting_end_time": "2019-09-08 14:00:00",
+    "local": "4a",
+    "organizers": "Yijie Peng, Qing-Shan Jia, Jun Luo, Giulia Pedrielli",
+    "meeting_leader": "Yijie Peng"
+  },
+  {
+    "meeting_id": "2",
+    "meeting_name": "Data-driven decision making for health care",
+    "meeting_start_time": "2019-09-08 15:00:00",
+    "meeting_end_time": "2019-09-08 16:00:00",
+    "local": "4c",
+    "organizers": "Jing Li, Xiang Zhong, Hyunsoo Yoon",
+    "meeting_leader": "Hyunsoo Yoon"
+  },
+  {
+    "meeting_id": "3",
+    "meeting_name": "Data-driven operation optimization of smart factories",
+    "meeting_start_time": "2019-09-09 12:00:00",
+    "meeting_end_time": "2019-09-09 14:00:00",
+    "local": "4a",
+    "organizers": "Fei Qiao, Weiming Shen",
+    "meeting_leader": "Fei Qiao"
+  },
+  {
+    "meeting_id": "4",
+    "meeting_name": "Machine Learning-enabled Modeling Technology and Its Applications",
+    "meeting_start_time": "2019-09-09 15:00:00",
+    "meeting_end_time": "2019-09-09 16:00:00",
+    "local": "4c",
+    "organizers": "Chunsheng Yang, Xiaohua Yang",
+    "meeting_leader": "Chunsheng Yang"
+  },
+  {
+    "meeting_id": "5",
+    "meeting_name": "Intelligent Welding Manufacturing",
+    "meeting_start_time": "2019-09-09 16:00:00",
+    "meeting_end_time": "2019-09-09 18:00:00",
+    "local": "4b",
+    "organizers": "Yuming Zhang, Zhili Feng, Shan-Ben Chen",
+    "meeting_leader": "Yuming Zhang"
+  }
+]

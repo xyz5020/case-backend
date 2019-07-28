@@ -1,0 +1,42 @@
+[
+  {
+    "article_id": "1",
+    "article_title": "Advanced Manufacturing Systems: Scheduling, Analysis, and Control",
+    "article_author": "Joe Smith",
+    "create_article_date": "2019-01-01",
+    "article_url": "bbr-congestion-control.pdf",
+    "remarks": "this is remarks"
+  },
+  {
+    "article_id": "2",
+    "article_title": "Operations Management in healthcare: stochastic modeling and optimization",
+    "article_author": "Joe Smith",
+    "create_article_date": "2019-01-01",
+    "article_url": "bbr-congestion-control.pdf",
+    "remarks": "this is remarks"
+  },
+  {
+    "article_id": "3",
+    "article_title": "Smart Manufacturing",
+    "article_author": "Joe Smith",
+    "create_article_date": "2019-01-01",
+    "article_url": "bbr-congestion-control.pdf",
+    "remarks": "this is remarks"
+  },
+  {
+    "article_id": "4",
+    "article_title": "Industrial Blockchain",
+    "article_author": "Joe Smith",
+    "create_article_date": "2019-01-01",
+    "article_url": "bbr-congestion-control.pdf",
+    "remarks": "this is remarks"
+  },
+  {
+    "article_id": "5",
+    "article_title": "Unmanned Aerial Vehicle (UAV) Empowered Smart Service System",
+    "article_author": "Joe Smith",
+    "create_article_date": "2019-01-01",
+    "article_url": "bbr-congestion-control.pdf",
+    "remarks": "this is remarks"
+  }
+]
