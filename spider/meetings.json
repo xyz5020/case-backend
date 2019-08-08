@@ -1,0 +1,1938 @@
+[
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Monitoring and Control of the Heat Input in MAG-Laser-Hybrid Welding of High Strength Steel in Telescopic Crane Booms",
+    local: "Buchanan B208",
+    code: "FrBT1.1",
+    author: "Sven-Frithjof Goecke, Thomas Seefeld, Dieter Tyralla, Andreas Krug"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Detection Model of Invisible Weld Defects Using Magneto-Optical Imaging Induced by Rotating Magnetic Field (I)",
+    local: "Buchanan B208",
+    code: "FrBT1.2",
+    author: "Yanfeng Li, Xiangdong Gao, Yanxi Zhang, Deyong You, Congyi Wang, Yaowu Song, Nanfeng Zhang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Study on Workpiece and Welding Torch Height Control for Polydirectional WAAM by Means of Image Processing (I)",
+    local: "Buchanan B208",
+    code: "FrBT1.3",
+    author: "Uwe Reisgen, Samuel Mann, Lukas Oster, Philipp Lozano, Rahul Sharma"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Modeling of Human Welder Operation in Virtual Reality Human-Robot Interaction Welding System",
+    local: "Buchanan B208",
+    code: "FrBT1.4",
+    author: "Qiyue Wang, Wenhua Jiao, Rui Yu	, Michael Johnson, Yuming Zhang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Robotic Additive Manufacturing System Featuring Wire Deposition by Electric Arc for High-Value Manufacturing",
+    local: "Buchanan B208",
+    code: "FrBT1.5",
+    author: "Stephen Richard French, Hector Marin-Reyes, Gabriel Kapellmann-Zafra, Samantha Abrego-Hernandez, Nicholas A Boone, Jon Willmott"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Welding Process Monitoring Applications and Industry 4.0",
+    local: "Buchanan B208",
+    code: "FrBT1.6",
+    author: "Michalis Benakis, Chunling Du, Alin Patran, Stephen Richard French"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Automatic Virtual Metrology for Carbon Fiber Manufacturing",
+    local: "Buchanan B208",
+    code: "FrCT1.2",
+    author: "Yu-Ming Hsieh, Chin-Yi Lin, Yu-Ru Yang, Min-Hsiung Hung, Fan-Tien Cheng"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Using Fuzzified Deep Recurrent Neural Networks to Retrieve Deep Features to Enhance the Accuracy of Tool Wear Prediction",
+    local: "Buchanan B208",
+    code: "FrCT1.3",
+    author: "Yi-Chung Chen, Sheng-Min Chiu, Cheng-Ju Kuo, Li-Chun Hung, Min-Hsiung Hung, Chao-Chun Chen"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "A Rapid Construction Scheme of Intelligent Manufacturing Devices Based Edge Computing and Container Technology (I)",
+    local: "Buchanan B208",
+    code: "FrCT1.4",
+    author: "Min-Hsiung Hung, Yu-Chuan Lin, Zih-Yan Shieh, Chao-Chun Chen, Yung-Chou Kao, Fan-Tien Cheng"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "A Labor-Efficient GAN-Based Model Generation Scheme for Deep-Learning Defect Inspection among Dense Beans in Coffee Industry (I)",
+    local: "Buchanan B208",
+    code: "FrCT1.5",
+    author: "Cheng-Ju Kuo, Chao-Chun Chen, Tzu-Ting Chen, ZhiJing Tasi, Min-Hsiung Hung, Yu-Chuan Lin, Yi-Chung Chen, Ding-Chau Wang, Gwo-Jiun Horng, Wei-Tsung Su"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Parameters Identification of a Five-Axis Machine Tool by Haar Wavelet (I)",
+    local: "Buchanan B208",
+    code: "FrCT1.6",
+    author: "Shyh-Leh Chen, Apisit Pinitnanthakorn"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Joint Optimization of Operating Mode and Part Sequence for Robot Loading Process Considering Real-Time Health Condition (I)",
+    local: "Buchanan B211",
+    code: "FrBT2.1",
+    author: "Yunyi Kang, Feng Ju"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Advanced Sensor and Target Development to Support Robot Accuracy Degradation Assessment (I)",
+    local: "Buchanan B211",
+    code: "FrBT2.2",
+    author: "Guixiu Qiao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Modelling a Batch Assorting Operation for an Autonomous Cart in a Parallel-Aisle Order Assorting System",
+    local: "Buchanan B211",
+    code: "FrBT2.3",
+    author: "Jeongman Lee, Youngjoo Kim, Soondo Hong"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "A Proposed Mapping Method for Aligning Machine Execution Data to Numerical Control Code (I)",
+    local: "Buchanan B211",
+    code: "FrBT2.4",
+    author: "Laetitia Monnier, William Bernstein, Sebti Foufou"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Predicting Flexural Strength of 3D Printed Carbon Fiber-Reinforced Polymer Composites with Machine Learning (I)",
+    local: "Buchanan B211",
+    code: "FrBT2.5",
+    author: "Dazhong Wu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Standards for Smart Manufacturing: A Review (I)",
+    local: "Buchanan B211",
+    code: "FrBT2.6",
+    author: "Yuqian Lu, Huiyue Huang, Chao Liu, Xun Xu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Enhancing Digital Twins through Reinforcement Learning",
+    local: "Buchanan B211",
+    code: "FrCT2.1",
+    author: "Constantin Cronrath, Abolfazl Rezaei Aderiani, Bengt Lennartson"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "A Shapelet Dictionary Learning Algorithm for Time Series Classification (I)",
+    local: "Buchanan B211",
+    code: "FrCT2.2",
+    author: "Jitao Zhang, Xinyu Li, Liang Gao, Long Wen, Guokai Liu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Fault Diagnosis Using Unsupervised Transfer Learning Based on Adversarial Network (I)",
+    local: "Buchanan B211",
+    code: "FrCT2.3",
+    author: "Zhao Zhang, Xinyu Li, Long Wen, Liang Gao, Yiping Gao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "Image-Based Process Monitoring Via Generative Adversarial Autoencoder with Applications to Rolling Defect Detection",
+    local: "Buchanan B211",
+    code: "FrCT2.4",
+    author: "Hao Yan, Huai-Ming Yeh, Sergin Nurettin"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "Remaining Useful Life Estimation Based on a New Convolutional and Recurrent Neural Network (I)",
+    local: "Buchanan B211",
+    code: "FrCT2.5",
+    author: "Xinyun Zhang, Yan Dong, Long Wen, Fang Lu, Wei Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Data Mining Methods to Analyze Alarm Logs in IoT Process Control Systems",
+    local: "Buchanan B211",
+    code: "FrCT2.6",
+    author: "Aldo Dagnino"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Dynamic Bottleneck in Serial Production Lines with Bernoulli Machines (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.1",
+    author: "Jiachen Tu, Yishu Bai, Mengzhuo Yang, Liang Zhang, Peter Denno"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Energy Consumption Optimization in Two-Machine Bernoulli Serial Lines with Limits on Machine Efficiency (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.2",
+    author: "Chao-Bo Yan"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Energy Cost Optimization in Two-Machine Bernoulli Serial Lines under Time-Of-Use Pricing (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.3",
+    author: "Xingrui Cheng, Chao-Bo Yan, Feng Gao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "An Improved Energy Saving Control in Bernoulli Production Lines (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.4",
+    author: "Peng-Hao Cui, Jun-Qiang Wang, Yang Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Performance Analysis in Bernoulli Serial Production Lines with Energy Constraints (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.5",
+    author: "Zhi Pei, Yujuan Wang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Real-Time Performance Analysis of Batch-Based Serial Flexible Production Lines with Geometric Machines (I)",
+    local: "Buchanan B213",
+    code: "FrBT3.6",
+    author: "Jingchuan Chen, Zhiyang Jia, Yaping Dai"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "An Improved Q-Learning Based Rescheduling Method for Flexible Job-Shops with Machine Failures (I)",
+    local: "Buchanan B213",
+    code: "FrCT3.1",
+    author: "Meng Zhao, Xinyu Li, Liang Gao, Ling Wang, Mi Xiao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "A Cuckoo Search-Based Scheduling Algorithm for a Semiconductor Production Line with Constrained Waiting Time (I)",
+    local: "Buchanan B213",
+    code: "FrCT3.2",
+    author: "Lijie Zhou, Chengran Lin, Biao Hu, Zhengcai Cao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Minimizing Total Flow Time in Two-Stage Hybrid Flowshop with Parallel Machines and a Single Batching Machine (I)",
+    local: "Buchanan B213",
+    code: "FrCT3.3",
+    author: "Hua Gong, Xiaojuan Shu, Fang Liu, Ke Xu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "An Iterated Greedy Algorithm for Distributed Hybrid Flowshop Scheduling Problem with Total Tardiness Minimization",
+    local: "Buchanan B213",
+    code: "FrCT3.4",
+    author: "Jing-jing Wang, Ling Wang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "A Deep Reinforcement Learning Agent for Minimizing Makespan for Dynamic Parallel Machine Scheduling and a Case Study",
+    local: "Buchanan B213",
+    code: "FrCT3.5",
+    author: "Chen-Fu Chien, Yu-Bin Lan"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Research on the Development Approach of Regional Manufacturing Industry in Internet+ Era (I)",
+    local: "Buchanan B213",
+    code: "FrCT3.6",
+    author: "Zhengxuan Jia, Lei Gu, Yingying Xiao, Guoqiang Shi, Mei Wang, Tingyu Lin, Liqin Guo, Zhen Shen"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Data-Driven Fault Diagnostics and Prognostics for Predictive Maintenance: A Brief Overview (I)",
+    local: "Buchanan B215",
+    code: "FrBT4.1",
+    author: "Gaowei Xu, Min Liu, Jingwei Wang, Yumin Ma, Jian Wang, Fei Li, Weiming Shen"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Data Driven Scheduling Knowledge Management for Smart Shop Floor (I)",
+    local: "Buchanan B215",
+    code: "FrBT4.2",
+    author: "Yumin Ma, Xiaoyu Lu, Fei Qiao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "A Hybrid Multi-Objective Algorithm for Energy-Efficient Scheduling Considering Machine Maintenance (I)",
+    local: "Buchanan B215",
+    code: "FrBT4.3",
+    author: "Junxia Xing, Fei Qiao, Hong Lu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Intelligent Machining Monitoring Using Sound Signal Processed with the Wavelet Method and a Self-Organizing Neural Network",
+    local: "Buchanan B215",
+    code: "FrBT4.4",
+    author: "Vahid Nasir, Julie Cool, Farrokh Sassani"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Short-Term Load Forecasting Based on Variational Modal Decomposition and Optimization Model (I)",
+    local: "Buchanan B215",
+    code: "FrBT4.5",
+    author: "Zhengcai Cao, Lu Liu, Biao Hu, Hongyu Xie"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "DefectGAN: Weakly-Supervised Defect Detection Using Generative Adversarial Network",
+    local: "Buchanan B215",
+    code: "FrBT4.6",
+    author: "Shuanlong Niu, Hui Lin, Tongzhi Niu, Bin Li, Xinggang Wang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Data-Driven Manufacturing Service Optimization Model in Smart Factory (I)",
+    local: "Buchanan B215",
+    code: "FrCT4.1",
+    author: "Wei Wu, Jianfeng Lu, Hao Zhang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Strip Snap Analytics in Cold Rolling Process Using Machine Learning",
+    local: "Buchanan B215",
+    code: "FrCT4.2",
+    author: "Zheyuan Chen, Ying Liu, Agustin Valera-Medina, Fiona Robinson"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "A Novel Scale Recognition Method for Pointer Meters Adapted to Different Types and Shapes (I)",
+    local: "Buchanan B215",
+    code: "FrCT4.3",
+    author: "HaoWen Lai, Qi Kang, Le Pan, Can Cui"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "Data and Expert-Driven Analysis of Cause-Effect Relationships in the Production of Lithium-Ion Batteries",
+    local: "Buchanan B215",
+    code: "FrCT4.4",
+    author: "Thomas Kornas, Muhammad Zeeshan Karamat, Rüdiger Daub, Sebastian Thiede, Christoph Herrmann"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "A New Spectral Clustering Based on Particle Swarm Optimization for Unsupervised Fault Diagnosis of Bearings (I)",
+    local: "Buchanan B215",
+    code: "FrCT4.5",
+    author: "Wenbin Song, Mingzhu Lai, Xinyu Li, Yanan Song, Liang Gao"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "A Screen-Based Method for Automated Camera Intrinsic Calibration on Production Lines",
+    local: "Buchanan B215",
+    code: "FrCT4.6",
+    author: "Wenliang Gao, Jiarong Lin, Fu Zhang, Shaojie Shen"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Automating Data Sampling for Regression Analysis Over Inhomogeneous Populations (I)",
+    local: "Buchanan B303",
+    code: "FrBT5.1",
+    author: "Chiwoo Park, Peihua Qiu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Data-Driven Decision-Support for Process Improvement through Predictions of Bed Occupancy Rates (I)",
+    local: "Buchanan B303",
+    code: "FrBT5.2",
+    author: "Kar Way Tan, Qi You Ng, Ngoc Hoang Long Nguyen, Lam Shao Sean"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "SEMG-Based Continuous Estimation of Knee Joint Angle Using Deep Learning with Convolutional Neural Network",
+    local: "Buchanan B303",
+    code: "FrBT5.3",
+    author: "Geng Liu, Li Zhang, Bing Han, Tong Zhang, Zhe Wang, Pingping Wei"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "HMC: A Hybrid Reinforcement Learning Based Model Compression for Healthcare Applications (I)",
+    local: "Buchanan B303",
+    code: "FrBT5.4",
+    author: "Ravi Soni, Jiahui Guan, Gopal Avinash, V Ratna Saripalli"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Smartphone-Based Telemonitoring of Parkinson’s Disease by Multi-Task Learning and Predictive Analytics (I)",
+    local: "Buchanan B303",
+    code: "FrBT5.5",
+    author: "Hyunsoo Yoon, Jing Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Physics-Based Deep Spatio-Temporal Metamodeling for Cardiac Electrical Conduction Simulation",
+    local: "Buchanan B303",
+    code: "FrBT5.6",
+    author: "Hao Yan, Xinyu Zhao, Zhiyong Hu, Dongping Du"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "U-Net with Optimal Thresholding for Small Blob Detection in Medical Images",
+    local: "Buchanan B303",
+    code: "FrCT5.1",
+    author: "Yanzhe Xu, Fei Gao, Teresa Wu, Kevin Bennett, Jennifer Charlton, Suryadipto Sarkar"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Random Forest Modeling for Survival Analysis of Cancer Recurrences (I)",
+    local: "Buchanan B303",
+    code: "FrCT5.2",
+    author: "Farhad Imani, Ruimin Chen, Conrad Tucker, Hui Yang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Model Identification and Physical Exercise Control Using Nonlinear Heart Rate Model and Particle Filter (I)",
+    local: "Buchanan B303",
+    code: "FrCT5.3",
+    author: "Dongping Du, Zhiyong Hu, Yuncheng Du"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "Multi-Mosquito Object Detection and 2D Pose Estimation for Automation of PfSPZ Malaria Vaccine Production",
+    local: "Buchanan B303",
+    code: "FrCT5.4",
+    author: "Hongtao Wu, Jiteng Mu, Da Ting, Mengdi Xu, Russell H. Taylor, Ioan Iulian Iordachita, Gregory Chirikjian"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "A Computer-Aided System for Determining the Application Range of a Warfarin Clinical Dosing Algorithm Using Support Vector Machines with a Polynomial Kernel Function",
+    local: "Buchanan B303",
+    code: "FrCT5.5",
+    author: "Ashkan Sharabiani, Adam Bress, William Galanter, Rezvan Nazempour, Houshang Darabi"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Screening a Portfolio of Pathologies by Subject Profiling and Medical Test Rationing",
+    local: "Buchanan B303",
+    code: "FrCT5.6",
+    author: "Nilson Herazo-Padilla, Vincent Augusto, Benjamin Dalmas, Xiaolan Xie, Bienvenu Bongue"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "A Method for Self-Service Rehabilitation Training of Human Lower Limbs (I)",
+    local: "Buchanan B308",
+    code: "FrBT6.1",
+    author: "Zhaowen Shao, Lingtao Yu, Jun Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "EEG and EMG Analysis for Lower Leg Muscle Co-Contraction (I)",
+    local: "Buchanan B308",
+    code: "FrBT6.2",
+    author: "Akihiro Fukui, Mayuka Torigoe, Hidekazu Saka, Yasuto Tanaka, Norihiko Saga"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Evaluation of Assistive Effect of Muscle Activity Mimicking Type Elbow Flexion Assistive Device Driven by Pneumatic Artificial Muscle (I)",
+    local: "Buchanan B308",
+    code: "FrBT6.3",
+    author: "Naoki Saito, Toshiyuki Satoh"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "An Intelligent Action Recognition System to Assess Cognitive Behavior for Executive Function Disorder",
+    local: "Buchanan B308",
+    code: "FrBT6.4",
+    author: "Ramesh Babu Ashwin, Mohammad Zakizadeh, James Brady, Diane Calderon, Fillia Makedon"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Toward Ergonomic Risk Prediction Via Segmentation of Indoor Object Manipulation Actions Using Spatiotemporal Convolutional Networks",
+    local: "Buchanan B308",
+    code: "FrBT6.5",
+    author: "Behnoosh Parsa, Ekta Samani, Rose Hendrix, Cameron Devine, Shashi Singh, Santosh Devasia, Ashis Banerjee"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Automated Extraction of Surgical Needles from Tissue Phantoms",
+    local: "Buchanan B308",
+    code: "FrBT6.6",
+    author: "Priya Sundaresan, Brijen Thananjeyan, Johnathan Chiu, Danyal Fer, Ken Goldberg"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Task-Space Position and Containment Control of Redundant Manipulators with Bounded Inputs (I)",
+    local: "Buchanan B308",
+    code: "FrCT6.1",
+    author: "Amir Zakerimanesh, Ali Torabi, Farzad Hashemzadeh, Mahdi Tavakoli"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Neural-Network-Based Heart Motion Prediction for Ultrasound-Guided Beating-Heart Surgery (I)",
+    local: "Buchanan B308",
+    code: "FrCT6.2",
+    author: "Lingbo Cheng, Mahdi Tavakoli"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Control of a Mechatronics-Assisted System for Surgeries Using Flexible Tools",
+    local: "Buchanan B308",
+    code: "FrCT6.3",
+    author: "Lingbo Cheng, Mahdi Tavakoli"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "Semi-Autonomous Surgical Robot Control for Beating-Heart Surgery",
+    local: "Buchanan B308",
+    code: "FrCT6.4",
+    author: "Lingbo Cheng, Jason Fong, Mahdi Tavakoli"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "Evaluation of the Use of Haptic Virtual Fixtures to Guide Fibula Osteotomies in Mandible Reconstruction Surgery",
+    local: "Buchanan B308",
+    code: "FrCT6.5",
+    author: "Rinde Johansson, Iara Santelices, Daniel O'Connell, Mahdi Tavakoli, Daniel Aalto"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Mosquito Staging Apparatus for Producing PfSPZ Malaria Vaccines",
+    local: "Buchanan B308",
+    code: "FrCT6.6",
+    author: "Mengdi Xu, Shengnan Lyu, Yingtian Xu, Can Kocabalkanli, Brian Chirikjian, John Chirikjian, Joshua Davis, Jin Seob Kim, Ioan Iulian Iordachita, Russell H. Taylor, Gregory Chirikjian"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "MISE-Optimal Grouping for Estimating Poisson Rate Functions with MNO--PQRS (I)",
+    local: "Buchanan B313",
+    code: "FrBT7.1",
+    author: "Huifen Chen, Bruce Schmeiser"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "A Unified Framework for Regime-Switching Models (I)",
+    local: "Buchanan B313",
+    code: "FrBT7.2",
+    author: "Yingda Song"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Optimal Budget Allocation in Simulation Analytics (I)",
+    local: "Buchanan B313",
+    code: "FrBT7.3",
+    author: "Xiao Jin, Haobin Li, Loo Hay Lee"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Indifference-Zone-Free Procedure for Constrained Selection of the Best Problem (I)",
+    local: "Buchanan B313",
+    code: "FrBT7.4",
+    author: "Zhenxia Cheng, Weiwei Fan, Jun Luo"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Value of Data: A Robust Linear Programming Approach (I)",
+    local: "Buchanan B313",
+    code: "FrBT7.5",
+    author: "Weiwei Fan"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Task Scheduling with Nonlinear Costs Using SMT Solvers",
+    local: "Buchanan B313",
+    code: "FrBT7.6",
+    author: "Mohammad Hekmatnejad, Pedrielli Giulia, Georgios Fainekos"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Real-Time Validation of Digital Models for Manufacturing Systems: A Novel Signal-Processing-Based Approach (I)",
+    local: "Buchanan B313",
+    code: "FrCT7.1",
+    author: "Giovanni Lugaresi, Gianluca Aglio, Federico Folgheraiter, Andrea Matta"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Performance Analysis of Multi-Product Production Lines with Batch Machines (I)",
+    local: "Buchanan B313",
+    code: "FrCT7.2",
+    author: "Yi-Xing Gou, Jun-Qiang Wang, Yang Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Simulation Based Energy Optimization of Robot Stations by Motion Parameter Tuning",
+    local: "Buchanan B313",
+    code: "FrCT7.3",
+    author: "Mattias Hovgard, Bengt Lennartson, Kristofer Bengtsson"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "PredNet and CompNet: Prediction and High-Precision Compensation of In-Plane Shape Deformation for Additive Manufacturing (I)",
+    local: "Buchanan B313",
+    code: "FrCT7.4",
+    author: "Zhen Shen, Xiuqin Shang, Yuqing Li, Yin Bao, Xipeng Zhang, Xisong Dong, Li Wan, Gang Xiong, Feiyue Wang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "A New Solution Approach for Flow Shop Scheduling with an Exponential Time-Dependent Learning Effect",
+    local: "Buchanan B313",
+    code: "FrCT7.5",
+    author: "Lingxuan Liu, Hongyu He, Leyuan Shi"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "A Multi-Fidelity Model Based on Simulation Optimization for Semiconductor Wafer Fabrication Production (I)",
+    local: "Buchanan B313",
+    code: "FrCT7.6",
+    author: "Fan Zhang, Jie Song, Jie Xu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Transformation of a Timed Weighted Marked Graph into a Parametric Timed Marked Graph and Its Application (I)",
+    local: "Buchanan B309",
+    code: "FrBT8.1",
+    author: "Zhou He, Guanghui Zhu, Zhiwu Li, Alessandro Giua"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "Supervisory Control in Partially Observable Petri Nets with Sensor Reduction (I)",
+    local: "Buchanan B309",
+    code: "FrBT8.2",
+    author: "Ziyue Ma, Zhou He, Zhiwu Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "No Synthesis Needed We Are Alright Already (I)",
+    local: "Buchanan B309",
+    code: "FrBT8.3",
+    author: "Martijn Goorden, Martin Fabian"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Active Diagnosis of Petri Nets Using Q-Diagnoser (I)",
+    local: "Buchanan B309",
+    code: "FrBT8.4",
+    author: "Yihui Hu, Ziyue Ma, Zhiwu Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Modeling and Control of Prosumer-Based Microgrids: A Petri Net Approach",
+    local: "Buchanan B309",
+    code: "FrBT8.5",
+    author: "Lia Strenge, Germano Schafaschek, Jörg Raisch"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Process Mining of Programmable Logic Controllers: Input/output Event Logs",
+    local: "Buchanan B309",
+    code: "FrBT8.6",
+    author: "Julian Theis, Ilia Mokhtarian, Houshang Darabi"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "On Consistent Reduction in Discrete-Event Systems (I)",
+    local: "Buchanan B309",
+    code: "FrCT8.1",
+    author: "Kai Cai, Alessandro Giua, Carla Seatzu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Supervisory Control for Delayed Detectability of Discrete Event Systems (I)",
+    local: "Buchanan B309",
+    code: "FrCT8.2",
+    author: "Xiang Yin, Shaoyuan Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Computational Effort of BDD-Based Supervisor Synthesis of Extended Finite Automata",
+    local: "Buchanan B309",
+    code: "FrCT8.3",
+    author: "Sander Thuijsman, Dennis Hendriks, Rolf Theunissen, Michel Reniers, Ramon Schiffelers"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "Supervisory Control of Discrete-Event Systems in an Asynchronous Setting",
+    local: "Buchanan B309",
+    code: "FrCT8.4",
+    author: "Aida Rashidinejad, Michel Reniers, Martin Fabian"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "Synthesis of Supervisors for Unknown Plant Models Using Active Learning",
+    local: "Buchanan B309",
+    code: "FrCT8.5",
+    author: "Ashfaq Hussain Farooqui, Martin Fabian"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Finite Response and Confluence of State-Based Supervisory Controllers (I)",
+    local: "Buchanan B309",
+    code: "FrCT8.6",
+    author: "Ferdie Reijnen, Albert Hofkamp, Joanna Maria Van de Mortel-Fronczak, Michel Reniers, Jacobus E. Rooda"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "An Inquiry into the Predictability of Failure Events in Chillers and Boilers (I)",
+    local: "Buchanan B318",
+    code: "FrBT9.1",
+    author: "Burak Gunay, Zixiao Shi, Chunsheng Yang, Weiming Shen, Darwish A Darwazeh"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "A Deep Learning Approach for Heating and Cooling Equipment Monitoring (I)",
+    local: "Buchanan B318",
+    code: "FrBT9.2",
+    author: "Yunli Wang, Chunsheng Yang, Weiming Shen"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Railway Joint Detection Using Deep Convolutional Neural Networks (I)",
+    local: "Buchanan B318",
+    code: "FrBT9.3",
+    author: "Yanmin Sun, Yan Liu, Chunsheng Yang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Adversarial Grasp Objects",
+    local: "Buchanan B318",
+    code: "FrBT9.4",
+    author: "David Wang, David Tseng, Pusong Li, Yiding Jiang, Menglong Guo, Michael Danielczuk, Jeffrey Mahler, Jeffrey Ichnowski, Ken Goldberg"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Mean Spectral Normalization of Deep Neural Networks for Embedded Automation",
+    local: "Buchanan B318",
+    code: "FrBT9.5",
+    author: "Anand Krishnamoorthy Subramanian, Nak Young Chong"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "Constructive Policy: Reinforcement Learning Approach for Connected Multi-Agent Systems",
+    local: "Buchanan B318",
+    code: "FrBT9.6",
+    author: "Sayyed Jaffar Ali Raza, Mingjie Lin"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Decentralized Learning Enabled Control for Distributed Manufacturing Agents (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.1",
+    author: "Hongyue Sun, Yi Zhou, Xinran Shi"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "Improved Production Performance through Manufacturing System Learning (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.2",
+    author: "Yu Qian, Jorge Arinez, Guoxian Xiao, Qing Chang"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Machine Preventive Replacement Policy for Serial Production Lines Based on Reinforcement Learning (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.3",
+    author: "Jing Huang, Qing Chang, Nilanjan Chakraborty"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:45-17:05",
+    paper: "A Methodology for the Early Diagnosis of Vehicle Torque Converter Clutch Degradation (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.4",
+    author: "Xiaodong Jia, Shiming Duan, Chunhao Lee, Peter Radecki, Jay Lee"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:05-17:25",
+    paper: "Spatiotemporal Modeling and Real-Time Prediction of Origin-Destination Traffic Demand (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.5",
+    author: "Xiaochen Xian, Honghan Ye, Xin Wang, Kaibo Liu"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "17:25-17:45",
+    paper: "Performance Improvement of Predictive Functional Control with a State Estimator-Based Internal Model (I)",
+    local: "Buchanan B318",
+    code: "FrCT9.6",
+    author: "Toshiyuki Satoh, Naoki Saito, Jun-ya Nagase, Norihiko Saga"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:30-13:50",
+    paper: "Mosquito Pick-And-Place: Automating a Key Step in PfSPZ-Based Malaria Vaccine Production",
+    local: "Buchanan B315",
+    code: "FrBT10.1",
+    author: "Henry Phalen, Prasad Vagdargi, Michael Pozin, Sumana Chakravarty, Gregory Chirikjian, Ioan Iulian Iordachita, Russell H. Taylor"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "13:50-14:10",
+    paper: "A Pilot Protection Method Based on Energy Balance for Half-Wavelength Transmission Lines",
+    local: "Buchanan B315",
+    code: "FrBT10.2",
+    author: "Jianfeng Fu, Guobing Song, Bart De Schutter"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:10-14:30",
+    paper: "Development of a Virtual Metering Method for Characterizing Energy Flows in Air Handling Units (I)",
+    local: "Buchanan B315",
+    code: "FrBT10.3",
+    author: "Darwish A Darwazeh, Burak Gunay, Jean Duquette"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:30-14:50",
+    paper: "Conditional Value at Risk Based Multidisciplinary Robust Design Optimization (I)",
+    local: "Buchanan B315",
+    code: "FrBT10.4",
+    author: "Wei Li, Tong Wang, Mi Xiao, Mingzhu Lai, Liang Gao, Congbo Li"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "14:50-15:10",
+    paper: "Real-Time Control for Large Scale Additive Manufacturing Using Thermal Images (I)",
+    local: "Buchanan B315",
+    code: "FrBT10.5",
+    author: "Feifan Wang, Feng Ju, Kyle Rowe, Nils Hofmann"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:10-15:30",
+    paper: "An Accurate and Robust Algorithm for Performance Evaluation of Exponential Serial Lines with Finite Buffers (I)",
+    local: "Buchanan B315",
+    code: "FrBT10.6",
+    author: "Yishu Bai, Jiachen Tu, Mengzhuo Yang, Liang Zhang, Peter Denno"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "15:45-16:05",
+    paper: "Data-Driven Surgical Duration Prediction Model for Surgery Scheduling: A Case-Study for a Practice-Feasible Model in a Public Hospital (I",
+    local: "Buchanan B315",
+    code: "FrCT10.1",
+    author: "Kar Way Tan, Ngoc Hoang Long Nguyen, Boon Yew Ang, Jerald Tang Chow Gan, Lam Shao Sean"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:05-16:25",
+    paper: "A Variable Neighborhood Search for Home Care Scheduling under Chargeable Overtime and Preference Matching",
+    local: "Buchanan B315",
+    code: "FrCT10.2",
+    author: "Yanran Zhu, Andrea Matta, Ettore Lanzarone, Na Geng"
+  },
+  {
+    date: "Friday August 23, 2019",
+    time: "16:25-16:45",
+    paper: "Evaluation of E-Consults in Healthcare Delivery (I)",
+    local: "Buchanan B315",
+    code: "FrCT10.3",
+    author: "Aditya Mahadev Prakash, Qiaochu He, Xiang Zhong"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "10:00-10:20",
+    paper: "Conflict Resolution for Heterogeneous Teams in Communication-Limited Environments: A Generous Agent Approach",
+    local: "Frederic Wood",
+    code: "SaAwK2.1",
+    author: "Demetrious T. Kutzke, Matthew Bays"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "10:20-10:40",
+    paper: "Set-Based Predictive Control for Collision Detection and Evasion",
+    local: "Frederic Wood",
+    code: "SaAwK2.2",
+    author: "Jeremy Crowley, Yegeta Zeleke, Berk Altin, Ricardo Sanfelice"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "10:40-11:00",
+    paper: "Selecting the Optimal System Design under Covariates (I)",
+    local: "Frederic Wood",
+    code: "SaAwK2.3",
+    author: "Siyang Gao, Jianzhong Du, Chun-Hung Chen"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "11:00-11:20",
+    paper: "Improving the Generalizability of Robot Assembly Tasks Learned from Demonstration Via CNN-Based Segmentation",
+    local: "Frederic Wood",
+    code: "SaAwK2.4",
+    author: "Iñigo Iturrate, Etienne Roberge, Esben Østergaard, Vincent Duchaine, Thiusius Rajeeth Savarimuthu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "11:20-11:40",
+    paper: "Tool-Center-Point Control of a Flexible Link Concrete Pump with Hydraulic Limitations Using Quadratic Programming",
+    local: "Frederic Wood",
+    code: "SaAwK2.5",
+    author: "Julian Wanner, Oliver Sawodny"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "11:40-12:00",
+    paper: "Flexible Production Systems: Automated Generation of Operations Plans Based on ISA-95 and PDDL",
+    local: "Frederic Wood",
+    code: "SaAwK2.6",
+    author: "Bernhard Wally, Jiri Vyskocil, Petr Novak, Christian Huemer, Radek Šindelář, Petr Kadera, Alexandra Mazak, Manuel Wimmer"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Iterated Local Search for Steelmaking–refining–Continuous Casting Scheduling Problem (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.1",
+    author: "Kunkun Peng, Quan-ke Pan, Ling Wang, Xudong Deng, Congbo Li, Liang Gao"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Green Job Shop Scheduling Problem with Machine at Different Speeds Using a Multi-Objective Grey Wolf Optimization Algorithm (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.2",
+    author: "Yuesheng Luo, Chao Lu, Xinyu Li, Ling Wang, Liang Gao"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "A Novel Grammatical Evolution Algorithm for Automatic Design of Scheduling Heuristics (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.3",
+    author: "Yifei Teng, Shaofeng Du, Zhenjun Hong, Xuhui Wu, Yunna Tian, Dongni Li"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Energy Saving Scheduling of a Single Machine System Based on Bi-Objective Particle Swarm Optimization (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.4",
+    author: "Junfeng Wang, Min Qian, Lingui Hu, Shiqi Li, Qing Chang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Energy Consumption Optimization in Three-Machine Bernoulli Serial Lines (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.5",
+    author: "Chao-Bo Yan, Ziqian Zheng"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "Energy Efficient State Control of Machine Tools: A Time-Based Dynamic Control Policy (I)",
+    local: "Buchanan B208",
+    code: "SaBT1.6",
+    author: "Lorenzo Marzano, Nicla Frigerio, Andrea Matta"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "A Framework for Automatic Initialization of Multi-Agent Production Systems Using Semantic Web Technologies",
+    local: "Buchanan B208",
+    code: "SaCT1.1",
+    author: "Felix Ocker, Ilya Kovalenko, Kira Barton, Dawn Tilbury, Birgit Vogel-Heuser"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "A Digital Twin Framework for Performance Monitoring and Anomaly Detection in Fused Deposition Modeling",
+    local: "Buchanan B208",
+    code: "SaCT1.2",
+    author: "Efe Balta, Dawn Tilbury, Kira Barton"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Dynamic Resource Task Negotiation to Enable Product Agent Exploration in Multi-Agent Manufacturing Systems",
+    local: "Buchanan B208",
+    code: "SaCT1.3",
+    author: "Ilya Kovalenko, Daria Ryashentseva, Birgit Vogel-Heuser, Dawn Tilbury, Kira Barton"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "An MPC Scheme for Traffic Coordination in Open and Irreversible, Zone-Controlled, Guidepath-Based Transport Systems",
+    local: "Buchanan B208",
+    code: "SaCT1.4",
+    author: "Spiridon Reveliotis"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "A Transferable Force Controller Based on Prescribed Performance for Contact Establishment in Robotic Assembly Tasks",
+    local: "Buchanan B208",
+    code: "SaCT1.5",
+    author: "Lorenz Halt, Fengjunjie Pan, Thomas Seel, Philipp Tenbrock, Andreas Pott"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "Cost Calculation Model for Reconfigurable, Hybrid Assembly Systems",
+    local: "Buchanan B208",
+    code: "SaCT1.6",
+    author: "Manuel Fechter, Thomas Dietz, Thomas Bauernhansl"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Investigation of Deep Learning for Real-Time Melt Pool Classification in Additive Manufacturing (I)",
+    local: "Buchanan B211",
+    code: "SaBT2.1",
+    author: "Zhuo Yang, Yan Lu, Ho Yeung, Sundar Krishnamurty"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Machine Learning Based Continuous Knowledge Engineering for Additive Manufacturing (I)",
+    local: "Buchanan B211",
+    code: "SaBT2.2",
+    author: "Hyunwoong Ko, Paul Witherell, Ndeye Yande Clarisse Ndiaye, Yan Lu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Iterative Learning Control for Power Profile Shaping in Selective Laser Melting",
+    local: "Buchanan B211",
+    code: "SaBT2.3",
+    author: "Aleksandr Shkoruta, William Caynoski, Sandipan Mishra, Stephen Rock"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Spray Pattern Analysis Using Wet-Mix Concrete for Model Based Process Control towards Automated Construction",
+    local: "Buchanan B211",
+    code: "SaBT2.4",
+    author: "Benjamin Schuler, Oliver Sawodny"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "An Intelligent Metrology Architecture with AVM for Metal Additive Manufacturing",
+    local: "Buchanan B211",
+    code: "SaBT2.5",
+    author: "Haw-Ching Yang	, Muhammad Adnan, Chih-Hung Huang, Fan-Tien Cheng, Yu-Lung Lo, Chih-Hua Hsu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "Nonlinear Deformation Prediction and Compensation in 3D Printing Based on CAE Neural Networks (I)",
+    local: "Buchanan B211",
+    code: "SaBT2.6",
+    author: "Meihua Zhao, Gang Xiong, Xiuqin Shang, Chang Liu, Zhen Shen, Huaiyu Wu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Reaction Temperature Estimation in Shell Coal Gasification Process",
+    local: "Buchanan B211",
+    code: "SaCT2.1",
+    author: "Kangcheng Wang, Chao Shang, Fan Yang, Yongheng Jiang, Dexian Huang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Algorithm for Power Stabilization in Rotary Drilling Systems",
+    local: "Buchanan B211",
+    code: "SaCT2.2",
+    author: "Maksim V. Faronov, Ilia G. Polushin"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Model Predictive Control of GTAW Weld Pool Penetration",
+    local: "Buchanan B211",
+    code: "SaCT2.3",
+    author: "Jinsong Chen, Jian Chen, Zhili Feng, Yuming Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Learning Deep Dynamical Models of a Waste Incineration Plant from In-Furnace Images and Process Data",
+    local: "Buchanan B211",
+    code: "SaCT2.4",
+    author: "Takumi Kaneko, Yoshihisa Tsurumine, James Poon, Yukio Onuki, Yingda Dai, Kaoru Kawabata, Takamitsu Matsubara"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "3D Reconstruction of Weld Pool Surface in Pulsed GMAW by Passive Biprism Stereo Vision",
+    local: "Buchanan B211",
+    code: "SaCT2.5",
+    author: "Zhimin Liang, Hexi Chang, Qiyue Wang, Dianlong	Wang, Yuming Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "A New Electrostatic Gripper for Flexible Handling of Fabrics in Automated Garment Manufacturing",
+    local: "Buchanan B211",
+    code: "SaCT2.6",
+    author: "Bin Sun, Xinyu Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Scheduling Robotic Cells with Two Part Types: A Reinforcement Learning Approach (I)",
+    local: "Buchanan B213",
+    code: "SaBT3.1",
+    author: "Hyun-Jung Kim, Jun-Ho Lee"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "SMT Solvers for Flexible Job-Shop Scheduling Problems: A Computational Analysis",
+    local: "Buchanan B213",
+    code: "SaBT3.2",
+    author: "Sabino Francesco Roselli, Kristofer Bengtsson, Knut Akesson"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Machine Learning Approach for Identification of Objective Function in Production Scheduling Problems",
+    local: "Buchanan B213",
+    code: "SaBT3.3",
+    author: "Yoki Matsuoka, Tatsushi Nishi, Kevin Tierney"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Impacts of Formulation Tightening on Job-Shop Scheduling",
+    local: "Buchanan B213",
+    code: "SaBT3.4",
+    author: "Bing Yan, Mikhail Bragin, Peter Luh"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Multi-Level Lot-Streaming Production Planning with the Objective of Workload Balancing (I)",
+    local: "Buchanan B213",
+    code: "SaBT3.5",
+    author: "Weihao Wang, Leyuan Shi"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "Simulated Annealing for the Multi-Vehicle Cyclic Inventory Routing Problem (I)",
+    local: "Buchanan B213",
+    code: "SaBT3.6",
+    author: "Aldy Gunawan, Vincent F. Yu, Audrey Tedja Widjaja, Pieter Vansteenwegen"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Hybrid Evolutionary Algorithm for Integrated Supply Chain Network Design with Assembly Line Balancing",
+    local: "Buchanan B213",
+    code: "SaCT3.1",
+    author: "Binqi Sun, Ling Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Scheduling and Routing of AGVs for Large-Scale Flexible Manufacturing Systems",
+    local: "Buchanan B213",
+    code: "SaCT3.2",
+    author: "Sarmad Riazi, Thomas Diding, Petter Falkman, Kristofer Bengtsson, Bengt Lennartson"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Adaptive Real-Time Scheduling of Dynamic Multiple-Criticality Applications on Heterogeneous Distributed Computing Systems",
+    local: "Buchanan B213",
+    code: "SaCT3.3",
+    author: "Biao Hu, Zhengcai Cao, Lijie Zhou"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "QoS and Profit Aware Task Scheduling with Simulated-Annealing-Based Bi-Objective Differential Evolution in Green Clouds",
+    local: "Buchanan B213",
+    code: "SaCT3.4",
+    author: "Haitao Yuan, Jing Bi, MengChu Zhou"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Automated Data Retrieval from Large-Scale Distributed Satellite Systems",
+    local: "Buchanan B213",
+    code: "SaCT3.5",
+    author: "Dominik Michael Krupke, Volker Schaus, Andreas Haas, Michael Perk, Jonas Dippel, Benjamin Grzesik, Larbi Mohamed Khalil Ben, Enrico Stoll, Tom Haylock, Harald Konstanski, Pozo Kattia Flores, Mirue Choi, Christian Schurig, Sándor Fekete"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "Task Assignment and Motion Planning for Bi-Manual Mobile Manipulation",
+    local: "Buchanan B213",
+    code: "SaCT3.6",
+    author: "Shantanu Thakar, Ariyan M. Kabir, Prahar Bhatt, Rishi Malhan, Pradeep Rajendran, Brual C. Shah, Satyandra K. Gupta"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Scheduling Algorithms for Multiple Orders Per Job Problems in Flexible Flow Shops (I)",
+    local: "Buchanan B215",
+    code: "SaBT4.1",
+    author: "Hubig Johannes, Lars Moench"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Hybrid Heuristics for Scheduling Jobs with Time Constraints between Consecutive Operations in Flexible Flow Shops (I)",
+    local: "Buchanan B215",
+    code: "SaBT4.2",
+    author: "Patrick Hahne, Lars Moench"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Multi-Objective Optimization for Work-In-Process Balancing and Throughput Maximization in Global Fab Scheduling (I)",
+    local: "Buchanan B215",
+    code: "SaBT4.3",
+    author: "Félicien Barhebwa-Mushamuka, Stephane Dauzere-Peres, Claude Yugma"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Overview of Deterministic Scheduling with Batch Processing Machines in Semiconductor Manufacturing (I)",
+    local: "Buchanan B215",
+    code: "SaBT4.4",
+    author: "John Fowler, Lars Moench"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Adaptive Genetic Algorithm for Lithography Scheduling in Semiconductor DRAM Fab (I)",
+    local: "Buchanan B215",
+    code: "SaBT4.5",
+    author: "Cheng-Man Wu, Chia-Yen Lee"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "Plan Instability Prediction by Machine Learning in Master Production Planning",
+    local: "Buchanan B215",
+    code: "SaBT4.6",
+    author: "Tim Lauer, Sarah Legner"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Coordinating Capacity Negotiations in the Semiconductor Industry (I)",
+    local: "Buchanan B215",
+    code: "SaCT4.1",
+    author: "Ankit Bansal, Reha Uzsoy"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "On the Optimization of Cycle Time in Assembly Lines with Parallel Workstations and Tasks Requiring Multiple Workers (I)",
+    local: "Buchanan B215",
+    code: "SaCT4.2",
+    author: "Jinho Shin, Minho Lee, James Morrison"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Exit Time Recursions, Reordering Principles, and Queue Equivalence in Generalized Regular Flow Lines (I)",
+    local: "Buchanan B215",
+    code: "SaCT4.3",
+    author: "Sang-Yoon Bae, James Morrison"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Convolution Neural Network for Fault Detection and Diagnosis in Semiconductor Manufacturing (I)",
+    local: "Buchanan B215",
+    code: "SaCT4.4",
+    author: "Chia-Yu Hsu, Wei-Chen Liu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Monitoring of a Sampled Process Data under Run-To-Run Control: Application to a Semiconductor Process ",
+    local: "Buchanan B215",
+    code: "SaCT4.5",
+    author: "Taki Eddine Korabi, Guillaume Graton, Adel El Mostafa El, Ouladsine Mustapha, Jacques Pinaton"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "What Are the Most Informative Data for Virtual Metrology? a Use Case on Multi-Stage Processes Fault Prediction",
+    local: "Buchanan B215",
+    code: "SaCT4.6",
+    author: "Marco Maggipinto, Gian Antonio Susto, Federico Zocco, Sean McLoone"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "A Semi-Supervised Classification Model for Predicting Opioid Usage after Total Knee and Hip Replacement Surgery (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.1",
+    author: "Sujee Lee, Shujing Wei, Veronica White, Philip Bain, Christine Baker, Jingshan Li"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Design of Video-Based Clinical Visits with Nurse Assistance for Chronic Diseases Management (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.2",
+    author: "Xiaojie Wang, Yongpei Guan, Xiang Zhong"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Assortment Planning of Physician with Patient Choice (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.3",
+    author: "Hanqi Wen, Xin Pan, Jie Song, Fan Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Optimizing Outpatient Department Staffing Level Using Multi-Fidelity Models (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.4",
+    author: "Bowen Pang, Xiaolei Xie, B.	Vrije Heidergott, Yijie Peng"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Optimizing a UAV-Based Emergency Medical Service Network for Trauma Injury Patients (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.5",
+    author: "Ruijiu Mao, Bin Du, Dengfeng Sun, Nan Kong"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "An Approach for Behavioral Drift Detection in a Smart Home (I)",
+    local: "Buchanan B303",
+    code: "SaBT5.6",
+    author: "Cyriac Azefack, Raksmey Phan, Vincent Augusto, Guillaume Gardin, Coquard Claude Montuy, Remi Bouvier, Xiaolan Xie"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Digitalized Hand-Drawn Patterns for Automated Screening of Parkinson’s Disease Using Machine Learning Classifier",
+    local: "Buchanan B303",
+    code: "SaCT5.1",
+    author: "Tsung-Lung Yang, Chia-Hung Lin, Chao-Lin Kuo, Ping-Ju Kan, Hsin-Yu Lin, Wei-Ling Chen	, Shih-An Chen"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Smart Drainage Monitoring System: Case Study in Pleural Effusion Drainage (I)",
+    local: "Buchanan B303",
+    code: "SaCT5.2",
+    author: "Chih-Hsien Li, Chung-Dann Kan, Wei-Ling Chen, Neng -Sheng Pai, Pi-Yun Chen, Hsiang-Yueh Lai, Meng-Hui Wang, Chia-Hung Lin"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Assessment of the Mechanical Properties of Tissues Using Ultrasonic Elastography System",
+    local: "Buchanan B303",
+    code: "SaCT5.3",
+    author: "Jian-Xing Wu, Pi-Yun Chen, Ying-Che Kuo, FengChang Gu, Koping K. Shung"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Automating Visual Inspection of Lyophilized Drug Products with Multi-Input Deep Neural Networks",
+    local: "Buchanan B303",
+    code: "SaCT5.4",
+    author: "Calvin Tsay, Zheng Li"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Respect Your Emotion: Human-Multi-Robot Teaming Based on Regret Decision Model",
+    local: "Buchanan B303",
+    code: "SaCT5.5",
+    author: "Longsheng Jiang, Yue Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "Cognitive Semantics for Dynamic Planning in Human-Robot Teams",
+    local: "Buchanan B303",
+    code: "SaCT5.6",
+    author: "Alexandre Angleraud, Quentin Houbre, Metodi Netzev, Roel S. Pieters"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Optimal Coordination of EVs and HVAC Systems with Uncertain Renewable Supply (I)",
+    local: "Buchanan B308",
+    code: "SaBT6.1",
+    author: "Haoming Zhao, Zhanbo Xu, Jiang Wu, Kun Liu, Lei Yang	, Xiaohong Guan"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "A Model-Driven Learning Approach for Predicting the Personalized Dynamic Thermal Comfort in Ordinary Office Environment (I)",
+    local: "Buchanan B308",
+    code: "SaBT6.2",
+    author: "Yadong Zhou, Xukun Wang, Zhanbo Xu, Ying Su, Ting Liu, Chao Shen, Xiaohong Guan"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "A Multi-Stage Dispatching and Scheduling Algorithm for Individualized Public Transportation System (I)",
+    local: "Buchanan B308",
+    code: "SaBT6.3",
+    author: "Zhenming Yang, Xuetao Wang, Chenghao Li, Qianchuan Zhao"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Blockchain-Enabled Workflow Management System for Fine-Grained Resource Sharing in E-Commerce Logistics (I)",
+    local: "Buchanan B308",
+    code: "SaBT6.4",
+    author: "Ming Li, George Q. Huang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "A Decentralized State Estimation Algorithm for Building Electrical Distribution Network Based on ADMM (I)",
+    local: "Buchanan B308",
+    code: "SaBT6.5",
+    author: "Yuhan Zhang, Jianchun Xing	, Qizhen Zhou, Shiqiang Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "O-LoMST: An Online Anomaly Detection Approach and Its Application in a Hydropower Generation Plant",
+    local: "Buchanan B308",
+    code: "SaBT6.6",
+    author: "Imtiaz Ahmed, Travis Galoppo, Yu Ding"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Chiller Plant Efficiency and Reliability Joint Optimization",
+    local: "Buchanan B308",
+    code: "SaCT6.1",
+    author: "Danxu Zhang, Khushboo Mittal, James Wilson, Peter Luh, Junqiang Fan, Shalabh Gupta"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Dynamic Pricing for Autonomous Vehicle E-Hailing Services Reliability and Performance Improvement (I)",
+    local: "Buchanan B308",
+    code: "SaCT6.2",
+    author: "Qixing Wang, Fei Miao, Jie Wu, Yuan Niu, Chengliang Wang, Nicholas Lownes"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Reliable Cooperative Charging Protocol against Fault Data for Supercapacitors Charging Systems (I)",
+    local: "Buchanan B308",
+    code: "SaCT6.3",
+    author: "Yang Miao, Jianping He, Shanying Zhu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "A Distributed Control Approach Based on Game Theory for the Optimal Energy Scheduling of a Residential Microgrid with Shared Generation and Storage",
+    local: "Buchanan B308",
+    code: "SaCT6.4",
+    author: "Raffaele Carli, Mariagrazia Dotoli, Vittorio Palmisano"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Robust Energy Scheduling of Interconnected Smart Homes with Shared Energy Storage under Quadratic Pricing",
+    local: "Buchanan B308",
+    code: "SaCT6.5",
+    author: "Seyed Mohsen Hosseini, Raffaele Carli, Mariagrazia Dotoli"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "A Time-Domain Decoupling Policy for Multi-Stage Robust Scheduling in a Corporate Energy System with V2G",
+    local: "Buchanan B308",
+    code: "SaCT6.6",
+    author: "Shihao Dai, Feng Gao, Kun Liu, Lei Yang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Enhancing Random Search with Surrogate Models for Lipschitz Continuous Optimization (I)",
+    local: "Buchanan B313",
+    code: "SaBT7.1",
+    author: "Qi Zhang, Jiaqiao Hu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Stochastic Gradient Estimation for Artificial Neural Networks (I)",
+    local: "Buchanan B313",
+    code: "SaBT7.2",
+    author: "Yijie Peng, Li Xiao, B. Heidergott, L. Jeff Hong, Henry Lam"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Integrating Heuristics and Approximations into a Branch and Bound Framework (I)",
+    local: "Buchanan B313",
+    code: "SaBT7.3",
+    author: "Zelda Zabinsky, Ting-Yu Ho, Hao Huang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Information Relaxation and a Duality-Based Method for Stochastic Dynamic Programs (DDP) (I)",
+    local: "Buchanan B313",
+    code: "SaBT7.4",
+    author: "Nan Chen, Xiang Ma"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Chance Constrained Programs with Mixture Distributions (I)",
+    local: "Buchanan B313",
+    code: "SaBT7.5",
+    author: "Zhaolin Hu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "A Joint Ordering, Pricing, and Freshness-Keeping Policy for Perishable Inventory Systems with Random Demand Over Infinite Horizon",
+    local: "Buchanan B313",
+    code: "SaBT7.6",
+    author: "Yajun Zhang, Zheng Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Simulation-Based Sensor Allocation for Dynamic Environment Estimation in Cyber-Physical Building System (I)",
+    local: "Buchanan B313",
+    code: "SaCT7.1",
+    author: "Yaping Liu, Jiang Wu, Zhanbo Xu, Xiaohong Guan, Yuanjun Shen"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "A Simulation Platform for Sensing System Selection for Occupant Distribution Estimation in Smart Buildings (I)",
+    local: "Buchanan B313",
+    code: "SaCT7.2",
+    author: "Jing-Xian Tang, 	Qing-Shan Jia"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "A Parametric Simulation Optimization Method for Decision Automation (I)",
+    local: "Buchanan B313",
+    code: "SaCT7.3",
+    author: "Yugandhar Sarkale, Saeed Nozhati, Edwin K. P. Chong, Bruce R. Ellingwood"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Falsification of Cyber-Physical Systems with Robustness Uncertainty Quantification through Stochastic Optimization with Adaptive Restart (I)",
+    local: "Buchanan B313",
+    code: "SaCT7.4",
+    author: "Logan Mathesen, Shakiba Yaghoubi, Giulia Pedrielli, Georgios Fainekos"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "ROS-Based Robust and Recursive Optimal Control of Commercial Quadrotors",
+    local: "Buchanan B313",
+    code: "SaCT7.5",
+    author: "João Roberto Soares Benevides, Marlon Adriano Dal'Sochio Paiva, Roberto Inoue, Marco Henrique Terra"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "On the Use of Equivalence Classes for Optimal and Sub-Optimal Bin Covering",
+    local: "Buchanan B313",
+    code: "SaCT7.6",
+    author: "Sabino Francesco Roselli, Fredrik Hagebring, Sarmad Riazi, Martin Fabian, Knut Akesson"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "Bridging the Gap between Semantics and Control for Industry 4.0 and Autonomous Production",
+    local: "Buchanan B309",
+    code: "SaBT8.1",
+    author: "Bernd Kast, Sebastian Albrecht, Wendelin Feiten, Jianwei Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Human-In-The-Loop Control Synthesis for Multi-Agent Systems under Hard and Soft Metric Interval Temporal Logic Specifications",
+    local: "Buchanan B309",
+    code: "SaBT8.2",
+    author: "Sofie Ahlberg, Dimos V. Dimarogonas"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "CMAC-Adaptive Force-Position Control of a Flexible-Joint Robot",
+    local: "Buchanan B309",
+    code: "SaBT8.3",
+    author: "Samuel Doctolero, Chris Macnab"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Fuzzy Back-Stepping Controller for Fixed-Trim Reentry Vehicle Considering Input Constraint",
+    local: "Buchanan B309",
+    code: "SaBT8.4",
+    author: "Guanlin Li, Tao Chao, Songyan Wang, Ming Yang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Passivity-Based Cascade Hybrid Pose/Force Robot Control",
+    local: "Buchanan B309",
+    code: "SaBT8.5",
+    author: "Rodolpho Ribeiro, Liu Hsu, Ramon Costa, Fernando Lizarralde"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "Swarm Signal Temporal Logic Inference for Swarm Behavior Analysis",
+    local: "Buchanan B309",
+    code: "SaBT8.6",
+    author: "Ruixuan Yan, Zhe Xu, Agung Julius"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Automated In-House Transportation of Small Load Carriers with Autonomous Unmanned Aerial Vehicles",
+    local: "Buchanan B309",
+    code: "SaCT8.1",
+    author: "Markus Lieret, Vladyslav Kogan, Sebastian Döll, Jörg Franke"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "An Efficient Approach to Near-Optimal 3D Trajectory Design in Cluttered Environments for Multirotor UAVs",
+    local: "Buchanan B309",
+    code: "SaCT8.2",
+    author: "Daniele Sartori, Danping Zou, Wenxian Yu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Obstacle Persistent Adaptive Map Maintenance for Autonomous Mobile Robots Using Spatio-Temporal Reasoning",
+    local: "Buchanan B309",
+    code: "SaCT8.3",
+    author: "Meredith Pitsch, Mitchell Pryor"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Vision-Only 3D Tracking for Self-Driving Cars",
+    local: "Buchanan B309",
+    code: "SaCT8.4",
+    author: "Carlos Diaz-Ruiz	, Yan Wang, Wei-Lun Chao, Kilian Weinberger, Mark Campbell"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Representation of Uncertain Occupancy Maps with High Level Feature Vectors",
+    local: "Buchanan B309",
+    code: "SaCT8.5",
+    author: "Janindu Arukgoda, Ravindra Ranasinghe, Gamini Dissanayake"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "A Hybrid Control Strategy for Autonomous Navigation While Avoiding Multiple Obstacles at Unknown Locations",
+    local: "Buchanan B309",
+    code: "SaCT8.6",
+    author: "Vijay Muthukumaran, Ricardo Sanfelice, Gabriel Hugh Elkaim"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "An Adaptive Wordpiece Language Model for Learning Chinese Word Embeddings",
+    local: "Buchanan B318",
+    code: "SaBT9.1",
+    author: "BinChen Xu, Lu Ma, Liang Zhang, HaoHai Li	, Qi Kang, MengChu Zhou"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Design a DC Solid-State Circuit Breaker for Smart Grid Application (I)",
+    local: "Buchanan B318",
+    code: "SaBT9.2",
+    author: "Ming-Tsung Tsai, Ching-Lung Chu, Bo Huang. Wei, Kuei-Hsiang Chao, Chang-Hua Lien"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Character Verification Testing on Integrated Circuit Components Using Convolutional Neural Networks (I)",
+    local: "Buchanan B318",
+    code: "SaBT9.3",
+    author: "Chun-Hui Lin, Chin-Ling Lee, Cheng-Jian Lin, Shyh-Hau Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "Shape Recognition for Breast Tumor in Mammograms (I)",
+    local: "Buchanan B318",
+    code: "SaBT9.4",
+    author: "Sheng-Chih Yang, Chuin-Mu Wang, Ruey-Maw Chen, Cheng-Jian Lin"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Cooperative Carrying Control of Two Mobile Robots Using a Type-2 Neural Fuzzy Controller (I)",
+    local: "Buchanan B318",
+    code: "SaBT9.5",
+    author: "Chin-Ling Lee, Jyun-Yu Jhang, Cheng-Jian Lin, Ruey-Maw Chen, Chuin-Mu Wang, Sheng-Chih Yang, Kuu-young Young"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "A Two-Stage Based PSO for Split Delivery Optimization (I)",
+    local: "Buchanan B318",
+    code: "SaBT9.6",
+    author: "Ruey-Maw Chen, Chuin-Mu Wang, Sheng-Chih Yang, Cheng-Jian Lin"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Electric Vehicle Fleet Relocation Management for Sharing Systems Based on Incentive Mechanism",
+    local: "Buchanan B318",
+    code: "SaCT9.1",
+    author: "Maria Pia Fanti, Agostino Marcello Mangini, Michele Roccotelli, Bartolomeo Silvestri, Salvatore Digiesi"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Optimal Control of a Fleet of AGVs on a Rectangular Grid: A MILP-Based Approach",
+    local: "Buchanan B318",
+    code: "SaCT9.2",
+    author: "Jingjie Jiang, Dragan Obradovic"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Video-Based Windshield Rain Detection and Wiper Control Using Holistic-View Deep Learning",
+    local: "Buchanan B318",
+    code: "SaCT9.3",
+    author: "Chi-Cheng Lai, Chih-Hung G. Li"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Simultaneously Determining Target Object and Transport Velocity for Manipulator and Moving Vehicle in Piece-Picking Operation",
+    local: "Buchanan B318",
+    code: "SaCT9.4",
+    author: "Nobutaka Kimura, Ryo Sakai, Shinichi Katsumata, Nobuhiro Chihara"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "Vehicle Tire (tyre) Detection and Text Recognition Using Deep Learning",
+    local: "Buchanan B318",
+    code: "SaCT9.5",
+    author: "Wajahat Kazmi, Ian Nabney, George Vogiatzis, Peter Rose, Codd Alex"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "Improved Dynamic Object Detection within Evidential Grids Framework",
+    local: "Buchanan B318",
+    code: "SaCT9.6",
+    author: "Henni Abderraouf Hadj, Angel Soriano, Tarazón Rafa López, Nacim Ramdani"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:30-13:50",
+    paper: "An Adaptive Interval Forecast CNN Model for Fault Detection Method (I)",
+    local: "Buchanan B15",
+    code: "SaBT10.1",
+    author: "Junjie He, Junliang Wang, Lu Dai, Jie Zhang, Jinsong Bao"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "13:50-14:10",
+    paper: "Damage Detection of Building Structure Based on Vibration Data and Hysteretic Model (I)",
+    local: "Buchanan B15",
+    code: "SaBT10.2",
+    author: "Valdez Jesús Morales, Pacheco Mario Antonio Lopez, Wen Yu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:10-14:30",
+    paper: "Design of a Horizontal Data Fragmentation, Allocation and Replication Method in the Cloud (I)",
+    local: "Buchanan B15",
+    code: "SaBT10.3",
+    author: "Felipe Castro-Medina, Lisbeth Rodríguez-Mazahua, Asdrúbal López-Chau, Isaac Machorro-Cano, María Antonieta Abud-Figueroa"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:30-14:50",
+    paper: "An Improved GA-KRR Nested Learning Approach for Refrigeration Compressor Performance Forecasting (I)",
+    local: "Buchanan B15",
+    code: "SaBT10.4",
+    author: "Chuqiao Xu, Liu Xin, Junliang Wang, Jie Zhang, Cao Jin, Wei Qin"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "14:50-15:10",
+    paper: "Measure Community Quality by Attribute Importance and Density in Social Networks (I)",
+    local: "Buchanan B15",
+    code: "SaBT10.5",
+    author: "Xiaoou Li, Bella Martinez-Seis, Xizhao Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:10-15:30",
+    paper: "A Framework for Accurate Time Series Classification Based on Partial Observation",
+    local: "Buchanan B15",
+    code: "SaBT10.6",
+    author: "Fazle Karim, Houshang Darabi, Samuel Harford, Shun Chen, Anooshiravan Sharabiani"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "15:45-16:05",
+    paper: "Bayesian Stackelberg Game Model for Water Supply Networks against Bounded Rational Interdictors (I)",
+    local: "Buchanan B15",
+    code: "SaCT10.1",
+    author: "Jing Jiang, Xiao Liu"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:05-16:25",
+    paper: "Survivability Analysis of Multi-Area Power Systems under Cyber-Attacks through a Two-Stage Game Model (I)",
+    local: "Buchanan B15",
+    code: "SaCT10.2",
+    author: "Huadong Mo, Min Xie, Yong Wang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:25-16:45",
+    paper: "Risk-Sensitive Control of Markov Decision Processes with Combined Metrics of Mean and Variance (I)",
+    local: "Buchanan B15",
+    code: "SaCT10.3",
+    author: "Li Xia"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "16:45-17:05",
+    paper: "Dynamic Field Monitoring Based on Multitask Learning (I)",
+    local: "Buchanan B15",
+    code: "SaCT10.4",
+    author: "Di Wang, Xi Zhang"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:05-17:25",
+    paper: "A Survivability-Aware Cyber-Physical Systems Design Methodology",
+    local: "Buchanan B15",
+    code: "SaCT10.5",
+    author: "Nafiul Rashid, Gustavo Quiros, Faruque Mohammad Abdullah Al"
+  },
+  {
+    date: "Saturday August 24, 2019",
+    time: "17:25-17:45",
+    paper: "Deep Learning Based Efficient Anomaly Detection for Securing Process Control Systems against Injection Attacks",
+    local: "Buchanan B15",
+    code: "SaCT10.6",
+    author: "Sasanka Potluri, Christian Diedrich"
+  },
+]
